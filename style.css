@@ -51,14 +51,16 @@ section{
     width: 80%;
 }
 .count-likes{
-    width: 70%;
-    padding: 40px;
+    width: 85%;
+    padding: 20px;
     margin: 70px;
     text-align: center;
     box-shadow: 10px 10px 20px gray;;
 }
 .like-count{
     text-align: center;
+    width: 30%;
+    margin: 40px;
 }
 footer{
     background-color: rgba(29, 19, 19, 0.637);
